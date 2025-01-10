@@ -98,8 +98,7 @@ image2.jpg,0,1,0,0,0
 - Daha fazla veri ile yüz şekli tespit doğruluğu artırılabilir.
 - Sonuçları kaydetmek için GUI işlevselliği genişletilebilir.
 
-## Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır.
+
 
 ---
 Sorularınız veya destek için bizimle iletişime geçebilirsiniz.
